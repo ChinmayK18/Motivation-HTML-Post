@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+}
+
+img{
+    border: 10px solid white;
+    width: 100%;
+}
+
+.text{
+    color: white;
+    text-align: center;
+}
+
+#heading{
+    text-transform: uppercase;
+}
+
+.caveat-font {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
